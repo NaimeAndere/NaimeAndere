@@ -4,8 +4,8 @@
 <h3> ∴ Naime Andere ∴ </h3>   
 
 ***
-Sou engenheiro, desenvolvedor e cientista de dados de formação, e apaixonado por tecnologia! <br>
-Com mais de 16 anos atuando na área de Engenharia e Tecnologia, Busco estar sempre aprendendo e encontrando soluções a baixo custo, rápidas e que tragas retornos significatívos. Nessa jornada encontrei com a Analise e Ciência de Dados uma forma representar os insights. <br>
+Engenheiro, Desenvolvedor e Cientista de Dados de formação, e apaixonado por tecnologia! <br>
+Com mais de 17 anos atuando na área de Engenharia e Tecnologia, Busco estar sempre aprendendo e encontrando soluções a baixo custo, rápidas e que tragas retornos significatívos. Nessa jornada encontrei com a Analise e Ciência de Dados uma forma representar os insights. <br>
 
 ***
 ### Formações Acadêmicas: <br>
