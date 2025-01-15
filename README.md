@@ -1,45 +1,57 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naimeandere&label=Profile%20views&color=0e75b6&style=flat" alt="naimeandere" /> </p>
 
-# Engenheiro, Cientista de Dados e Desenvolvedor! 
-<h3> ∴ Naime Andere ∴ </h3>   
+# Engineer, Data Scientist and Developer!
+
+<h3> ∴ Naime Andere ∴ </h3>
 
 ***
-Engenheiro, Desenvolvedor e Cientista de Dados de formação, e apaixonado por tecnologia! <br>
-Com mais de 17 anos atuando na área de Engenharia e Tecnologia, Busco estar sempre aprendendo e encontrando soluções a baixo custo, rápidas e que tragas retornos significatívos. Nessa jornada encontrei com a Analise e Ciência de Dados uma forma representar os insights. <br>
+Engineer, Developer and Data Scientist by training, and passionate about technology! <br>
+
+With over 17 years working in the Engineering and Technology area, I always seek to learn and find low-cost, fast solutions that bring significant returns. On this journey, I found with Data Analysis and Science a way to represent insights. <br>
 
 ***
-### Formações Acadêmicas: <br>
-__Técnico:__ Ténico em Informática | *Colégio Técnico Univap* </br>
-__Formação:__ Engenharia Elétrica Eletrônica | *Universidade do Vale do Paraíba (UNIVAP)* </br>
-__Especialização:__ Adminstração de Empresas | *Fundação Armando Álvares Penteado (FAAP)* </br>
-__Especialização:__ Engenharia de Software | *Universidade Estácio de Sá* </br>
-__MBA:__ Data Science and Analytics | *Universidade de São Paulo (USP)* </br>
+### Academic Background: <br>
+__MBA:__ Data Science and Analytics | *University of São Paulo (USP)* </br>
+__Specialization:__ Software Engineering | *Estácio de Sá University* </br>
+__Specialization:__ Business Administration | *Armando Álvares Penteado Foundation (FAAP)* </br>
+__Graduation:__ Electrical and Electronic Engineering | *Universidade do Vale do Paraíba (UNIVAP)* </br>
+__Technical:__ Computer Technician | *Univap Technical College* </br>
+
+
+
+
 
 ***
-### Conquistas
+### Achievements
 
-- Vencedor do prêmio de **Melhores Ideias do Departamento**.
-- Finalista do **SAFRAN Innovations Award** por promover soluções inovadoras.
-- Certificado como **Lean Six Sigma Green Belt**, aplicando a **metodologia DMAIC** em projetos de melhoria contínua.
-- Realizei **três viagens a trabalho para os Estados Unidos**, colaborando diretamente em projetos internacionais de grande impacto.
-
-***
-### Soluções
-- **Visualização de Dados:** Crio dashboards poderosos utilizando o Power BI para transformar conjuntos de dados complexos em insights claros e acionáveis.
-- **Soluções de Automação:** Utilizo tecnologias como Python, VBA, Power Shell e plataformas baseadas na nuvem para automatizar processos e aumentar a eficiência.
-- **Inteligência Artificial e Análise de Dados:** Trabalho no desenvolvimento de visualizações estratégicas de dados e modelos de IA para fornecer insights que ajudam na tomada de decisões. 
+- Certified as a **Lean Six Sigma Green Belt**, applying the **DMAIC methodology** in continuous improvement projects.
+- **Three business trips to the United States**, collaborating directly on high-impact international projects.
+- Finalist of the **SAFRAN Innovations Award** for promoting innovative solutions.
+- Winner of the **Best Ideas in the Department** award.
 
 ***
-<h3 align="left">Contate-me:</h3>
+### Solutions
+- **Data Visualization:** I create powerful dashboards using Power BI to transform complex data sets into clear, actionable insights.
+- **Artificial Intelligence and Data Analytics:** I work on developing strategic data visualizations and AI models to provide insights that help in decision making.
+- **Automation Solutions:** I use technologies such as Python, VBA, Power Shell, and cloud-based platforms to automate processes and increase efficiency.
+- **Project Planning and Execution:** I specialize in defining project scope, setting objectives, and creating detailed plans to ensure timely and efficient delivery.
+- **Stakeholder Communication:** I excel in fostering clear and continuous communication among project stakeholders to align expectations and drive collaboration.
+- **Risk Management:** I identify potential risks early and develop mitigation strategies to ensure project success and minimize disruptions.
+- **Agile Methodologies:** I apply Agile principles to manage projects adaptively, ensuring flexibility and rapid response to changing priorities.
+- **Resource Optimization:** I effectively allocate and manage resources to maximize project efficiency and deliver optimal results.
+
+
+***
+<h3 align="left">Contact me:</h3>
 <p align="left">
 <a href="https://wa.me/5512988019622" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+ <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
 </a>
 <a href="https://www.linkedin.com/in/naimeandere" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="mailto:naime.andere@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+ <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 </p>
 
